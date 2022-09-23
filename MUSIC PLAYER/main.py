@@ -15,6 +15,7 @@ pattern = "*.mp3"
 
 mixer.init()
 
+#Images
 prev_img = tk.PhotoImage(file = "prev_img.png")
 stop_img = tk.PhotoImage(file = "stop_img.png")
 play_img = tk.PhotoImage(file = "play_img.png")
